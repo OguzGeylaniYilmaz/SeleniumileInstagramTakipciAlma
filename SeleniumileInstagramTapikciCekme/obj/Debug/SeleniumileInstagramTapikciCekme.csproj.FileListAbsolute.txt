@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\My Projects\SeleniumileInstagramTapikciCekme\SeleniumileInstagramTapikciCekme\bin\Debug\SeleniumileInstagramTapikciCekme.exe.config
+C:\Users\User\Desktop\My Projects\SeleniumileInstagramTapikciCekme\SeleniumileInstagramTapikciCekme\bin\Debug\SeleniumileInstagramTapikciCekme.exe
+C:\Users\User\Desktop\My Projects\SeleniumileInstagramTapikciCekme\SeleniumileInstagramTapikciCekme\bin\Debug\SeleniumileInstagramTapikciCekme.pdb
+C:\Users\User\Desktop\My Projects\SeleniumileInstagramTapikciCekme\SeleniumileInstagramTapikciCekme\bin\Debug\WebDriver.dll
+C:\Users\User\Desktop\My Projects\SeleniumileInstagramTapikciCekme\SeleniumileInstagramTapikciCekme\bin\Debug\WebDriver.xml
+C:\Users\User\Desktop\My Projects\SeleniumileInstagramTapikciCekme\SeleniumileInstagramTapikciCekme\obj\Debug\SeleniumileInstagramTapikciCekme.csprojAssemblyReference.cache
+C:\Users\User\Desktop\My Projects\SeleniumileInstagramTapikciCekme\SeleniumileInstagramTapikciCekme\obj\Debug\SeleniumileInstagramTapikciCekme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My Projects\SeleniumileInstagramTapikciCekme\SeleniumileInstagramTapikciCekme\obj\Debug\SeleniumileInstagramTapikciCekme.csproj.CopyComplete
+C:\Users\User\Desktop\My Projects\SeleniumileInstagramTapikciCekme\SeleniumileInstagramTapikciCekme\obj\Debug\SeleniumileInstagramTapikciCekme.exe
+C:\Users\User\Desktop\My Projects\SeleniumileInstagramTapikciCekme\SeleniumileInstagramTapikciCekme\obj\Debug\SeleniumileInstagramTapikciCekme.pdb
